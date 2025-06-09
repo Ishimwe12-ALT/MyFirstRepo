@@ -1,0 +1,7 @@
+ ```plaintext name=introduction.txt
+Brief Introduction About Myself
+
+Hello! My name is Ishimwe Ornella Marine Sandra Joy. I am passionate about the exciting field of Artificial Intelligence (AI) and enjoy exploring how technology can be used to solve real-world problems. My curiosity drives me to continuously learn and grow in this ever-evolving domain.
+
+Currently, I am focused on building a strong foundation in Linux and Version Control systems. These skills are essential for anyone looking to pursue a career in technology, especially in AI and software development. I look forward to applying what I learn to future projects and collaborating with others in the tech community.
+```
