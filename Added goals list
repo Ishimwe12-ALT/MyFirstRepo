@@ -1,3 +1,7 @@
 git add goals.txt
 git commit -m "Added goals list"
 git push origin feature-update
+Learn the basics of Git and GitHub
+Create and commit files
+Collaborate with others using branches and pull requests
+Understand version control best practices
