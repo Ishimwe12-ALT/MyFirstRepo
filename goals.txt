@@ -1,7 +1,6 @@
-git checkout feature-update
-echo "Goal 1: Learn GitHub basics
-Goal 2: Practice making commits
-Goal 3: Collaborate with others" > goals.txt
-git add goals.txt
-git commit -m "Add goals.txt with a list of goals"
-git push origin feature-update
+My Personal and Academic Goals for Next Year
+
+1. Learn a new programming language.
+2. Finish my major project.
+3. Improve my grades in all subjects.
+4. Read two technical books.
