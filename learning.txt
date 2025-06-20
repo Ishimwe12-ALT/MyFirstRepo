@@ -1,2 +1,1 @@
-echo "Your short paragraph about something you’ve learned so far in this course." > learning.txt
-I have learned how to create files and branches in GitHub
+What I have learned from this course
